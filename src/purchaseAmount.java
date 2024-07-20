@@ -8,7 +8,7 @@ public class purchaseAmount {
         System.out.println("payable amount :"+amount);
         }
         else if(amount>=500 && amount<=1000){
-            System.out.println("payable amount"+amount*0.90);
+            System.out.println("payable amount  :"+amount*0.90);
        }
         else{
             System.out.println("payable amount :"+amount*0.80);
